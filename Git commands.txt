@@ -21,3 +21,4 @@ git branch -d <Branch_name>
 6)To remove all the changes we have made in our local
 git stash
 
+steps to 
