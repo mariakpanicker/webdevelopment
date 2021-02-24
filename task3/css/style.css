@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgb(115, 121, 121);
+}
+.active{
+    background-color: white;
+    color: blueviolet;
+    width: 50%;
+    height: 80%;
+    overflow: hidden;
+    margin-left: 22%;
+    border: black solid 4PX;
+}
+button{
+    text-align: center;
+    height: 6%;
+    width: 30%; border: black solid 2PX;
+   
+    border-radius: 15PX;
+    font-size: 15PX;
+}
+ul{list-style: none;}
+li{
+    font-size: 30px;
+    padding: 5PX;
+}

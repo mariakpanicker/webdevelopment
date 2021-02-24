@@ -1,0 +1,23 @@
+1)To create a new Branch 
+git checkout -b <Branch_name>
+
+2)To change to another Branch
+git checkout <Branch_name>
+*for sub branches 
+git switch <Branch_name>
+
+3)To Push our code from local to bit bucket
+*git status
+*git add .(will add all modified files at once) OR git add "File_name"
+*git commit -m "<Some_comment>"
+*git push
+
+4)To add the changes from bit bucket to local
+git fetch OR git pull
+
+5)To delete a branch
+git branch -d <Branch_name>
+
+6)To remove all the changes we have made in our local
+git stash
+
